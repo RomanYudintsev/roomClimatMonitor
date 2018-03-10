@@ -1,7 +1,7 @@
 # **Air monitor v 1.0** #
 
 ### binaries
-/bin/esp_init_data_default.bin - bin from sdk version 2.2 (08)
+/bin/esp_init_data_default_05.bin - bin from sdk version 2.2 (08)
 
     0x7C000 for 512 кБ (ESP-01, -03, -07 etc.)
     0xFC000 for 1 МБ (ESP8285, PSF-A85)
